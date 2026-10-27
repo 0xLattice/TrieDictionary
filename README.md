@@ -43,7 +43,7 @@ Add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/adalinxx/TrieDictionary.git", from: "1.0.0")
+    .package(url: "https://github.com/0xLattice/TrieDictionary.git", from: "1.0.0")
 ]
 ```
 
@@ -396,7 +396,7 @@ Contributions are welcome! Please:
 ### Development Setup
 
 ```bash
-git clone https://github.com/adalinxx/TrieDictionary.git
+git clone https://github.com/0xLattice/TrieDictionary.git
 cd TrieDictionary
 swift test  # Run tests
 swift test --filter PerformanceTests  # Run benchmarks
@@ -415,8 +415,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 - 📖 [Documentation](Sources/TrieDictionary/)
-- 🐛 [Issues](https://github.com/adalinxx/TrieDictionary/issues)
-- 💬 [Discussions](https://github.com/adalinxx/TrieDictionary/discussions)
+- 🐛 [Issues](https://github.com/0xLattice/TrieDictionary/issues)
+- 💬 [Discussions](https://github.com/0xLattice/TrieDictionary/discussions)
 
 ---
 
